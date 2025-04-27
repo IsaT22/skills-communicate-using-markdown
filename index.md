@@ -8,3 +8,6 @@
 ``` python
 nano (insert_file_name_here)
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [x] Create my about me
